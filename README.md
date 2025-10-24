@@ -9,4 +9,4 @@ A simple counter web app using HTML, Tailwind CSS, and JavaScript.
 
 ## How to Use
 
-Open `index.html` in a browser and use the buttons to increment or decrement the counter.
+Open `index.html` in a browser and use the buttons to increment or decrement the counter
